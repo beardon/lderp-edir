@@ -5,7 +5,8 @@
   "keywords": [
     "ldap",
     "promise",
-    "edirectory"
+    "edirectory",
+    "novell"
   ],
   "homepage": "https://github.com/beardon/lderp-edir",
   "bugs": {
