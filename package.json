@@ -1,0 +1,25 @@
+{
+  "name": "lderp-edir",
+  "description": "eDirectory extension for lderp",
+  "version": "0.0.1",
+  "keywords": [
+    "ldap",
+    "promise",
+    "edirectory"
+  ],
+  "homepage": "https://github.com/beardon/lderp-edir",
+  "bugs": {
+    "url": "https://github.com/beardon/lderp-edir/issues",
+    "email": "aaron.bean@beardon.com"
+  },
+  "author": {
+    "name": "Aaron Bean",
+    "email": "aaron.bean@beardon.com",
+    "url": "https://github.com/aaronbean"
+  },
+  "main": "./lib/edir",
+  "dependencies": {
+    "lderp": "0.0.3",
+    "lodash": "^2.4.1"
+  }
+}
