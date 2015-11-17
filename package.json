@@ -20,7 +20,7 @@
   },
   "main": "./lib/edir",
   "dependencies": {
-    "lderp": "^0.0.3",
+    "lderp": "^1.0.0",
     "lodash": "^3.10.1"
   }
 }
