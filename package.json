@@ -1,7 +1,7 @@
 {
   "name": "lderp-edir",
   "description": "Novell eDirectory extension for lderp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "ldap",
     "promise",
